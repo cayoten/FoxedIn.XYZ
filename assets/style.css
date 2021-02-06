@@ -1,5 +1,6 @@
 body {
   font-family: Jost;
+  background-color: #b5abac;
 }
 .display-1 {
   font-family: 'Jost', sans-serif;
@@ -1030,7 +1031,7 @@ a {
   }
 }
 .cid-sodfiXDzxE {
-  height: 91vh;
+/*  height: 100%;*/
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #b5abac;
