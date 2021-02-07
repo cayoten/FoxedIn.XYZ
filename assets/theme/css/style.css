@@ -927,5 +927,16 @@ blockquote {
 #ip
 {
   color: red;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Comfortaa', serif;
+}
+
+#rulestext
+{
+  font-family: 'Comfortaa', serif;
+  text-align: left;
+}
+
+#robotofont
+{
+  font-family: 'Roboto', serif;
 }
